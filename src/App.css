@@ -1,0 +1,10 @@
+body {
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh;
+    overflow: hidden;
+    color: white;
+    font-size: xx-large ;
+  }
